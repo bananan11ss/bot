@@ -2,13 +2,13 @@
   "5957392405": {
     "license_key": "KAL-f5352976-b1a4-4111-b555-8227ad879295",
     "days_total": 3,
-    "expires_at": "2025-12-05T11:29:10.697433\u002B00:00",
+    "expires_at": "2025-12-05T11:29:10.697433+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "LAPTOP-2MNPVRKA-admin",
     "last_launch": "2025-12-02T11:29:22.1318671Z",
     "is_banned": false,
-    "last_msg_id": 203,
+    "last_msg_id": 204,
     "promo_used": false,
     "username": "howt00getmoney"
   }
