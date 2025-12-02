@@ -2,20 +2,20 @@
   "5957392405": {
     "license_key": "KAL-f5352976-b1a4-4111-b555-8227ad879295",
     "days_total": 3,
-    "expires_at": "2025-12-04T13:39:02.901684\u002B00:00",
+    "expires_at": "2025-12-04T13:39:02.901684+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
     "last_launch": "2025-12-02T15:12:02.6849969Z",
     "is_banned": false,
-    "last_msg_id": 407,
+    "last_msg_id": 409,
     "promo_used": false,
     "username": "howt00getmoney"
   },
   "5143471418": {
     "license_key": "KAL-5655c2a6-6300-46cc-b62e-199650b4b96a",
     "days_total": 5,
-    "expires_at": "2025-12-07T12:33:26.446718\u002B00:00",
+    "expires_at": "2025-12-07T12:33:26.446718+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
@@ -41,7 +41,7 @@
   "7298919239": {
     "license_key": "KAL-bef58da2-87df-4e74-885b-66d2cddd1ee2",
     "days_total": 17,
-    "expires_at": "2025-12-16T14:36:15.993666\u002B00:00",
+    "expires_at": "2025-12-16T14:36:15.993666+00:00",
     "frozen": true,
     "frozen_remaining_days": 2,
     "hwid": null,
@@ -54,7 +54,7 @@
   "6644353173": {
     "license_key": "KAL-beff4970-4f58-4711-9f29-c3688c9880ff",
     "days_total": 3,
-    "expires_at": "2025-12-05T14:28:33.768045\u002B00:00",
+    "expires_at": "2025-12-05T14:28:33.768045+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "60C4E38D54058D96564223BED5D2A035B6D618910DB4076DCDFE34F41C9DC314",
