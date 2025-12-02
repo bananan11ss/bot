@@ -20,7 +20,7 @@
     "frozen_remaining_days": 0,
     "hwid": null,
     "last_launch": null,
-    "is_banned": true,
+    "is_banned": false,
     "last_msg_id": 225,
     "promo_used": false,
     "username": "weekzyy"
