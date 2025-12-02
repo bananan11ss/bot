@@ -50,5 +50,18 @@
     "last_msg_id": 323,
     "promo_used": false,
     "username": "userzazer"
+  },
+  "6644353173": {
+    "license_key": null,
+    "days_total": 0,
+    "expires_at": null,
+    "frozen": false,
+    "frozen_remaining_days": 0,
+    "hwid": null,
+    "last_launch": null,
+    "is_banned": false,
+    "last_msg_id": null,
+    "promo_used": false,
+    "username": null
   }
 }
