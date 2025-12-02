@@ -14,8 +14,8 @@
   },
   "5143471418": {
     "license_key": null,
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 30,
+    "expires_at": "2026-01-01T19:11:25.312130+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
@@ -23,7 +23,8 @@
     "is_banned": false,
     "last_msg_id": 395,
     "promo_used": true,
-    "username": "weekzyy"
+    "username": "weekzyy",
+    "hwid_reset_count": 0
   },
   "7953911325": {
     "license_key": null,
