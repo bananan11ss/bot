@@ -59,7 +59,7 @@
     "frozen_remaining_days": 0,
     "hwid": null,
     "last_launch": null,
-    "is_banned": false,
+    "is_banned": true,
     "last_msg_id": 379,
     "promo_used": false,
     "username": "h9ijle"
