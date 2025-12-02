@@ -41,9 +41,9 @@
   "7298919239": {
     "license_key": "KAL-bef58da2-87df-4e74-885b-66d2cddd1ee2",
     "days_total": 3,
-    "expires_at": "2025-12-05T13:59:26.723975+00:00",
-    "frozen": false,
-    "frozen_remaining_days": 0,
+    "expires_at": null,
+    "frozen": true,
+    "frozen_remaining_days": 2,
     "hwid": null,
     "last_launch": null,
     "is_banned": false,
