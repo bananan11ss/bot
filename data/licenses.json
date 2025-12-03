@@ -26,9 +26,9 @@
     "username": "weekzyy"
   },
   "7953911325": {
-    "license_key": "KAL-a6ff3a79-6514-41d0-927e-a6329b8bfb08",
-    "days_total": 3,
-    "expires_at": "2025-12-06T08:51:43.770136+00:00",
+    "license_key": null,
+    "days_total": 0,
+    "expires_at": null,
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
