@@ -26,9 +26,9 @@
     "username": "weekzyy"
   },
   "7953911325": {
-    "license_key": null,
-    "days_total": 0,
-    "expires_at": null,
+    "license_key": "KAL-b191bd3a-8b5c-41bc-8883-7c4acdfd60a4",
+    "days_total": 3,
+    "expires_at": "2025-12-06T09:10:21.398758+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -36,7 +36,8 @@
     "is_banned": false,
     "last_msg_id": 456,
     "promo_used": false,
-    "username": "PointerToObject"
+    "username": "PointerToObject",
+    "hwid_reset_count": 0
   },
   "7298919239": {
     "license_key": "KAL-bef58da2-87df-4e74-885b-66d2cddd1ee2",
