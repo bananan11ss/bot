@@ -14,5 +14,22 @@
     "last_msg_id": 721,
     "promo_used": false,
     "username": "howt00getmoney"
+  },
+  "5143471418": {
+    "license_key": null,
+    "days_total": 0,
+    "expires_at": null,
+    "frozen": false,
+    "frozen_remaining_days": 0,
+    "hwid": null,
+    "last_launch": null,
+    "last_launch_kal": null,
+    "last_launch_lastnight": null,
+    "is_banned": false,
+    "hwid_banned": false,
+    "last_msg_id": null,
+    "promo_used": false,
+    "username": null,
+    "hwid_reset_count": 0
   }
 }
