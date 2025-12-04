@@ -26,7 +26,7 @@
     "last_launch_kal": "2025-12-04T13:09:09.7682584Z",
     "last_launch_lastnight": "2025-12-04T13:15:32.6735189Z",
     "is_banned": false,
-    "hwid_banned": true,
+    "hwid_banned": false,
     "last_msg_id": 728,
     "promo_used": false,
     "username": "weekzyy"
