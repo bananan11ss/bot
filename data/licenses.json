@@ -2,7 +2,7 @@
   "5957392405": {
     "license_key": "KAL-83151f03-ed6d-4075-ae8c-00d41606f562",
     "days_total": 33,
-    "expires_at": "2026-01-05T11:37:02.283750\u002B00:00",
+    "expires_at": "2026-01-05T11:37:02.283750+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
@@ -18,7 +18,7 @@
   "5143471418": {
     "license_key": "KAL-1a05b957-ba81-4ab9-a8b7-f8a1b5d6aa96",
     "days_total": 1491,
-    "expires_at": "2030-01-03T12:37:00.282541\u002B00:00",
+    "expires_at": "2030-01-03T12:37:00.282541+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
@@ -30,5 +30,22 @@
     "last_msg_id": 728,
     "promo_used": false,
     "username": "weekzyy"
+  },
+  "5747669325": {
+    "license_key": null,
+    "days_total": 0,
+    "expires_at": null,
+    "frozen": false,
+    "frozen_remaining_days": 0,
+    "hwid": null,
+    "last_launch": null,
+    "last_launch_kal": null,
+    "last_launch_lastnight": null,
+    "is_banned": false,
+    "hwid_banned": false,
+    "last_msg_id": null,
+    "promo_used": false,
+    "username": null,
+    "hwid_reset_count": 0
   }
 }
