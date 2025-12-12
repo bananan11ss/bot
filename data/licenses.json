@@ -130,7 +130,7 @@
     "hwid_banned": false,
     "last_msg_id": null,
     "promo_used": false,
-    "username": null,
+    "username": "PointerToObject",
     "hwid_reset_count": 0,
     "avatar_url": null
   }
