@@ -2,12 +2,12 @@
   "5957392405": {
     "license_key": "KAL-83151f03-ed6d-4075-ae8c-00d41606f562",
     "days_total": 33,
-    "expires_at": "2026-01-04T15:30:54.182929+00:00",
+    "expires_at": "2026-01-04T15:30:54.182929\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
-    "last_launch": "2025-12-13T08:23:19.6836523Z",
-    "last_launch_kal": "2025-12-13T08:23:19.6836523Z",
+    "last_launch": "2025-12-13T09:22:13.2801088Z",
+    "last_launch_kal": "2025-12-13T09:22:13.2801088Z",
     "last_launch_lastnight": "2025-12-13T08:19:52.5086840Z",
     "is_banned": false,
     "hwid_banned": false,
@@ -18,7 +18,7 @@
   "5143471418": {
     "license_key": "KAL-1a05b957-ba81-4ab9-a8b7-f8a1b5d6aa96",
     "days_total": 1491,
-    "expires_at": "2030-01-03T12:37:00.282541+00:00",
+    "expires_at": "2030-01-03T12:37:00.282541\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
@@ -50,7 +50,7 @@
   "1237831295": {
     "license_key": "KAL-d023ee17-3a7e-476e-aee1-96c3deebf976",
     "days_total": 19021,
-    "expires_at": "2078-01-02T18:53:33.286175+00:00",
+    "expires_at": "2078-01-02T18:53:33.286175\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "DCE7C66556337CA8F1B6CE89DBDEB85D49A96F865CE7887A74335F259796480C",
@@ -66,7 +66,7 @@
   "8282985821": {
     "license_key": "KAL-e16a34e7-2340-4479-a580-78ec39832248",
     "days_total": 151,
-    "expires_at": "2026-05-12T14:22:47.067113+00:00",
+    "expires_at": "2026-05-12T14:22:47.067113\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -141,9 +141,7 @@
     "hwid_banned": false,
     "last_msg_id": 153,
     "promo_used": false,
-    "username": "karysick",
-    "hwid_reset_count": 0,
-    "avatar_url": "https://raw.githubusercontent.com/bananan11ss/bot/main/data/avatars/8082569511.png"
+    "username": "karysick"
   },
   "7799105632": {
     "license_key": null,
@@ -159,8 +157,6 @@
     "hwid_banned": false,
     "last_msg_id": 161,
     "promo_used": false,
-    "username": "SellerGS",
-    "hwid_reset_count": 0,
-    "avatar_url": null
+    "username": "SellerGS"
   }
 }
