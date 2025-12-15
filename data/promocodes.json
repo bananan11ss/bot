@@ -15,7 +15,7 @@
   "GETGOOD": {
     "days": 5,
     "max_uses": 2,
-    "used_count": 0,
+    "used_count": 1,
     "active": true,
     "expires_at": "2025-12-17T21:28:47.293408+00:00"
   }
