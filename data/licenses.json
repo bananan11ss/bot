@@ -223,9 +223,9 @@
     "last_launch_lastnight": null,
     "is_banned": false,
     "hwid_banned": false,
-    "last_msg_id": 259,
+    "last_msg_id": null,
     "promo_used": false,
-    "username": null,
+    "username": "avecat",
     "hwid_reset_count": 0,
     "avatar_url": null
   }
