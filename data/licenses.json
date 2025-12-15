@@ -213,8 +213,8 @@
   },
   "7908052113": {
     "license_key": null,
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 5,
+    "expires_at": "2025-12-20T21:19:09.061210+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
