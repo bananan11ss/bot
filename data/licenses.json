@@ -11,7 +11,7 @@
     "last_launch_lastnight": "2025-12-15T08:57:45.7627477Z",
     "is_banned": false,
     "hwid_banned": false,
-    "last_msg_id": 304,
+    "last_msg_id": 307,
     "promo_used": false,
     "username": "howt00getmoney"
   },
@@ -249,8 +249,8 @@
   },
   "5045266014": {
     "license_key": null,
-    "days_total": 5,
-    "expires_at": "2025-12-20T21:20:29.558267+00:00",
+    "days_total": 0,
+    "expires_at": null,
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
