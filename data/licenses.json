@@ -2,7 +2,7 @@
   "5957392405": {
     "license_key": "KAL-83151f03-ed6d-4075-ae8c-00d41606f562",
     "days_total": 33,
-    "expires_at": "2026-01-04T15:30:54.182929+00:00",
+    "expires_at": "2026-01-04T15:30:54.182929\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
@@ -18,7 +18,7 @@
   "5143471418": {
     "license_key": "KAL-1a05b957-ba81-4ab9-a8b7-f8a1b5d6aa96",
     "days_total": 1491,
-    "expires_at": "2030-01-03T12:37:00.282541+00:00",
+    "expires_at": "2030-01-03T12:37:00.282541\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
@@ -50,7 +50,7 @@
   "1237831295": {
     "license_key": "KAL-d023ee17-3a7e-476e-aee1-96c3deebf976",
     "days_total": 19021,
-    "expires_at": "2078-01-02T18:53:33.286175+00:00",
+    "expires_at": "2078-01-02T18:53:33.286175\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "DCE7C66556337CA8F1B6CE89DBDEB85D49A96F865CE7887A74335F259796480C",
@@ -66,12 +66,12 @@
   "8282985821": {
     "license_key": "KAL-e16a34e7-2340-4479-a580-78ec39832248",
     "days_total": 156,
-    "expires_at": "2026-05-17T14:22:47.067113+00:00",
+    "expires_at": "2026-05-17T14:22:47.067113\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "53F706788323F620F2BB9DE96FA583A9F5207A920233F98A748581D19F1FF3F6",
-    "last_launch": "2025-12-16T19:32:55.5758293Z",
-    "last_launch_kal": "2025-12-16T19:32:55.5758293Z",
+    "last_launch": "2025-12-16T21:03:37.9159608Z",
+    "last_launch_kal": "2025-12-16T21:03:37.9159608Z",
     "last_launch_lastnight": "2025-12-15T11:15:08.9566327Z",
     "is_banned": false,
     "hwid_banned": false,
@@ -82,7 +82,7 @@
   "7375340368": {
     "license_key": null,
     "days_total": 10,
-    "expires_at": "2025-12-25T21:26:05.192451+00:00",
+    "expires_at": "2025-12-25T21:26:05.192451\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -114,7 +114,7 @@
   "7953911325": {
     "license_key": null,
     "days_total": 5,
-    "expires_at": "2025-12-20T21:24:50.691768+00:00",
+    "expires_at": "2025-12-20T21:24:50.691768\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -210,7 +210,7 @@
   "7908052113": {
     "license_key": null,
     "days_total": 5,
-    "expires_at": "2025-12-20T21:19:09.061210+00:00",
+    "expires_at": "2025-12-20T21:19:09.061210\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -226,7 +226,7 @@
   "8103395164": {
     "license_key": null,
     "days_total": 10,
-    "expires_at": "2025-12-25T21:19:47.394196+00:00",
+    "expires_at": "2025-12-25T21:19:47.394196\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -242,7 +242,7 @@
   "5045266014": {
     "license_key": null,
     "days_total": 5,
-    "expires_at": "2025-12-20T21:20:46.277681+00:00",
+    "expires_at": "2025-12-20T21:20:46.277681\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -258,7 +258,7 @@
   "7748180931": {
     "license_key": null,
     "days_total": 10,
-    "expires_at": "2025-12-20T21:29:57.238141+00:00",
+    "expires_at": "2025-12-20T21:29:57.238141\u002B00:00",
     "frozen": true,
     "frozen_remaining_days": 4,
     "hwid": null,
