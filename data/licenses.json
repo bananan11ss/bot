@@ -153,7 +153,7 @@
     "last_launch": null,
     "last_launch_kal": null,
     "last_launch_lastnight": null,
-    "is_banned": true,
+    "is_banned": false,
     "hwid_banned": false,
     "last_msg_id": 161,
     "promo_used": false,
