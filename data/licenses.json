@@ -162,8 +162,8 @@
   },
   "6859604471": {
     "license_key": null,
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 2,
+    "expires_at": "2025-12-21T17:31:17.770049+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -174,7 +174,8 @@
     "hwid_banned": false,
     "last_msg_id": 219,
     "promo_used": false,
-    "username": "whym3k"
+    "username": "whym3k",
+    "hwid_reset_count": 0
   },
   "7752913806": {
     "license_key": null,
