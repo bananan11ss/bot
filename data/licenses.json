@@ -163,9 +163,9 @@
   "6859604471": {
     "license_key": null,
     "days_total": 2,
-    "expires_at": "2025-12-21T17:31:17.770049+00:00",
-    "frozen": false,
-    "frozen_remaining_days": 0,
+    "expires_at": null,
+    "frozen": true,
+    "frozen_remaining_days": 1,
     "hwid": null,
     "last_launch": null,
     "last_launch_kal": null,
