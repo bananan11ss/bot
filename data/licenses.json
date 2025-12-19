@@ -2,9 +2,9 @@
   "6859604471": {
     "license_key": "LN-b4ac32c3-6800-4298-b088-59c548de7dd3",
     "days_total": 2,
-    "expires_at": "2025-12-21T18:02:12.584540+00:00",
-    "frozen": false,
-    "frozen_remaining_days": 0,
+    "expires_at": null,
+    "frozen": true,
+    "frozen_remaining_days": 1,
     "hwid": "DD94793528D77A87CBA6A1E1B8A9B35F4FC42F777FBF561D1FFD7131441A25F9",
     "last_launch": "2025-12-19T19:09:49.1581138Z",
     "last_launch_kal": "2025-12-19T18:02:33.9234073Z",
