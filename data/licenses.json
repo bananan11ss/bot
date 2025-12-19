@@ -17,8 +17,8 @@
   },
   "5957392405": {
     "license_key": null,
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 1488,
+    "expires_at": "2030-01-15T18:05:22.943325+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -29,7 +29,8 @@
     "hwid_banned": false,
     "last_msg_id": 697,
     "promo_used": false,
-    "username": "howt00getmoney"
+    "username": "howt00getmoney",
+    "hwid_reset_count": 0
   },
   "8336413944": {
     "license_key": null,
