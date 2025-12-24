@@ -177,8 +177,8 @@
   },
   "5303448058": {
     "license_key": "LN-04badd20-6b21-4e07-aff6-8409d8670fa7",
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 4,
+    "expires_at": "2025-12-28T13:10:16.051385+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
