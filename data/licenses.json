@@ -2,7 +2,7 @@
   "6859604471": {
     "license_key": "LN-b4ac32c3-6800-4298-b088-59c548de7dd3",
     "days_total": 7,
-    "expires_at": "2025-12-26T13:13:33.256774+00:00",
+    "expires_at": "2025-12-26T13:13:33.256774\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "DD94793528D77A87CBA6A1E1B8A9B35F4FC42F777FBF561D1FFD7131441A25F9",
@@ -18,12 +18,12 @@
   "5957392405": {
     "license_key": "LN-661bdaf8-41e2-44c1-b67c-ac96bcdff6b5",
     "days_total": 1488,
-    "expires_at": "2030-01-15T18:05:22.943325+00:00",
+    "expires_at": "2030-01-15T18:05:22.943325\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
-    "last_launch": "2025-12-19T19:07:38.4137637Z",
-    "last_launch_kal": "2025-12-19T19:07:31.8183651Z",
+    "last_launch": "2025-12-26T12:18:44.4283515Z",
+    "last_launch_kal": "2025-12-26T12:18:44.4283515Z",
     "last_launch_lastnight": "2025-12-19T19:07:38.4137637Z",
     "is_banned": false,
     "hwid_banned": false,
@@ -178,7 +178,7 @@
   "5303448058": {
     "license_key": "LN-04badd20-6b21-4e07-aff6-8409d8670fa7",
     "days_total": 4,
-    "expires_at": "2025-12-28T13:10:16.051385+00:00",
+    "expires_at": "2025-12-28T13:10:16.051385\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -189,9 +189,7 @@
     "hwid_banned": false,
     "last_msg_id": 806,
     "promo_used": false,
-    "username": "swaqqr",
-    "hwid_reset_count": 0,
-    "avatar_url": null
+    "username": "swaqqr"
   },
   "7375340368": {
     "license_key": null,
@@ -207,8 +205,6 @@
     "hwid_banned": false,
     "last_msg_id": 808,
     "promo_used": false,
-    "username": null,
-    "hwid_reset_count": 0,
-    "avatar_url": null
+    "username": null
   }
 }
