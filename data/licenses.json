@@ -2,7 +2,7 @@
   "6859604471": {
     "license_key": "LN-b4ac32c3-6800-4298-b088-59c548de7dd3",
     "days_total": 10,
-    "expires_at": "2026-01-05T15:15:37.905238+00:00",
+    "expires_at": "2026-01-05T15:15:37.905238\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "DD94793528D77A87CBA6A1E1B8A9B35F4FC42F777FBF561D1FFD7131441A25F9",
@@ -13,13 +13,12 @@
     "hwid_banned": false,
     "last_msg_id": 773,
     "promo_used": false,
-    "username": "whym3k",
-    "hwid_reset_count": 0
+    "username": "whym3k"
   },
   "5957392405": {
     "license_key": "LN-661bdaf8-41e2-44c1-b67c-ac96bcdff6b5",
     "days_total": 1488,
-    "expires_at": "2030-01-15T18:05:22.943325+00:00",
+    "expires_at": "2030-01-15T18:05:22.943325\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
@@ -147,19 +146,18 @@
   "5143471418": {
     "license_key": "LN-85975de3-6726-4951-9020-3306566e071e",
     "days_total": 6,
-    "expires_at": "2026-01-08T15:14:13.824431+00:00",
+    "expires_at": "2026-01-08T15:14:13.824431\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
-    "hwid": null,
-    "last_launch": null,
-    "last_launch_kal": null,
+    "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
+    "last_launch": "2026-01-02T18:11:34.7184634Z",
+    "last_launch_kal": "2026-01-02T18:11:34.7184634Z",
     "last_launch_lastnight": null,
     "is_banned": false,
     "hwid_banned": false,
     "last_msg_id": 876,
     "promo_used": false,
-    "username": "weekzyy",
-    "hwid_reset_count": 0
+    "username": "weekzyy"
   },
   "8356877114": {
     "license_key": null,
@@ -180,7 +178,7 @@
   "5303448058": {
     "license_key": "LN-04badd20-6b21-4e07-aff6-8409d8670fa7",
     "days_total": 4,
-    "expires_at": "2025-12-28T13:10:16.051385+00:00",
+    "expires_at": "2025-12-28T13:10:16.051385\u002B00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
