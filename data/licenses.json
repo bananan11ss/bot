@@ -225,8 +225,8 @@
   },
   "1237831295": {
     "license_key": "LN-417af9a6-264c-445d-b336-a7896a0ef918",
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 360,
+    "expires_at": "2026-12-30T21:48:11.543577+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
