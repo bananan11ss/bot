@@ -2,7 +2,7 @@
   "6859604471": {
     "license_key": "LN-b2180879-3c36-4f23-ad4a-0bd3a42d02c5",
     "days_total": 30,
-    "expires_at": "2026-02-04T10:39:09.694608\u002B00:00",
+    "expires_at": "2026-02-04T10:39:09.694608+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "DD94793528D77A87CBA6A1E1B8A9B35F4FC42F777FBF561D1FFD7131441A25F9",
@@ -18,7 +18,7 @@
   "5957392405": {
     "license_key": "LN-661bdaf8-41e2-44c1-b67c-ac96bcdff6b5",
     "days_total": 1488,
-    "expires_at": "2030-01-15T18:05:22.943325\u002B00:00",
+    "expires_at": "2030-01-15T18:05:22.943325+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "F2BDA2F63BBF77D15E6E048D34BB841527F04501C11CE56EFE5E45F0880AD367",
@@ -27,7 +27,7 @@
     "last_launch_lastnight": "2026-01-02T15:01:33.6989423Z",
     "is_banned": false,
     "hwid_banned": false,
-    "last_msg_id": 1027,
+    "last_msg_id": 1035,
     "promo_used": false,
     "username": "howt00getmoney"
   },
@@ -146,7 +146,7 @@
   "5143471418": {
     "license_key": "LN-85975de3-6726-4951-9020-3306566e071e",
     "days_total": 6,
-    "expires_at": "2026-01-08T15:14:13.824431\u002B00:00",
+    "expires_at": "2026-01-08T15:14:13.824431+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": "4A5590FF69EB1EB0782101BEFDA5D5AAB385FF22C621209694D6C1D57EF3BAE5",
@@ -178,7 +178,7 @@
   "5303448058": {
     "license_key": "LN-04badd20-6b21-4e07-aff6-8409d8670fa7",
     "days_total": 4,
-    "expires_at": "2025-12-28T13:10:16.051385\u002B00:00",
+    "expires_at": "2025-12-28T13:10:16.051385+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -226,7 +226,7 @@
   "1237831295": {
     "license_key": "LN-417af9a6-264c-445d-b336-a7896a0ef918",
     "days_total": 360,
-    "expires_at": "2026-12-30T21:48:11.543577\u002B00:00",
+    "expires_at": "2026-12-30T21:48:11.543577+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
@@ -258,7 +258,7 @@
   "7953911325": {
     "license_key": "LN-37520a1c-599d-43ed-979e-5774ce7f9482",
     "days_total": 14,
-    "expires_at": "2026-01-20T19:33:45.669944\u002B00:00",
+    "expires_at": "2026-01-20T19:33:45.669944+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
