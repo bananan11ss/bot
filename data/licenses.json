@@ -257,8 +257,8 @@
   },
   "7953911325": {
     "license_key": "LN-37520a1c-599d-43ed-979e-5774ce7f9482",
-    "days_total": 0,
-    "expires_at": null,
+    "days_total": 14,
+    "expires_at": "2026-01-20T19:33:45.669944+00:00",
     "frozen": false,
     "frozen_remaining_days": 0,
     "hwid": null,
